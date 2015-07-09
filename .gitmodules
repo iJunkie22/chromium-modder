@@ -1,1 +1,4 @@
 
+[submodule "modchromium/paktools"]
+	path = modchromium/paktools
+	url = https://github.com/iJunkie22/pak-tools.git
